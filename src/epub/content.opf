@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Windfairies, And Other Tales</dc:title>
 		<meta property="file-as" refines="#fulltitle">Windfairies, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Fairy tales</dc:subject>
 		<dc:subject id="subject-2">Children's stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
