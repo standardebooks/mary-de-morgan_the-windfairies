@@ -47,7 +47,7 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>The third collection of fairy tales by Mary De Morgan.</dc:abstract>
+		<meta property="schema:abstract">The third collection of fairy tales by Mary De Morgan.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Windfairies&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/mary-de-morgan"&gt;Mary De Morgan’s&lt;/a&gt; third and final collection of fairy tales. Like its predecessors, it draws inspiration from other stories in the fairy tale genre. Among the tales in this collection are “Vain Kesta,” a story about pride and greed, “The Story of a Cat,” which tells of how a miser learns to care for other people, and the titular “The Windfairies,” a fairy tale in a more traditional mode that involves fairies and a young woman. Intelligent animals, supernatural beings, and moral lessons appear in some degree across all stories.&lt;/p&gt;
 		</dc:description>
